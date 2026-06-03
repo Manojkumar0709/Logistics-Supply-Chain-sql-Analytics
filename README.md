@@ -1,4 +1,6 @@
 Project Overview
+
+
 This project simulates a real-world logistics and supply chain environment for a mid-size freight company using pure SQL on SQLite.
 It models customers, warehouses, carriers, orders, and shipments, and uses SQL queries to answer practical business questions about delivery performance, warehouse utilization, and customer demand.
 
